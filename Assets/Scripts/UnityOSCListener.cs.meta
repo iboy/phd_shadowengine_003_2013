@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: ac72c9df5a2fd456a874af340061ec52
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - object1: {instanceID: 0}
+  - object2: {instanceID: 0}
+  - object3: {instanceID: 0}
+  - object4: {instanceID: 0}
+  - object5: {fileID: 100000, guid: 92f4fa9ba368f462eabf1a7873c8e3bd, type: 2}
+  - object6: {fileID: 100020, guid: 92f4fa9ba368f462eabf1a7873c8e3bd, type: 2}
+  - object7: {instanceID: 0}
+  - Puppet1: {instanceID: 0}
+  - Puppet2: {instanceID: 0}
+  - Puppet3: {instanceID: 0}
+  - Puppet4: {instanceID: 0}
+  - Puppet5: {instanceID: 0}
+  - Object1: {instanceID: 0}
+  - Object2: {instanceID: 0}
+  - Object3: {instanceID: 0}
+  - Object4: {instanceID: 0}
+  - Object5: {instanceID: 0}
+  - Object6: {instanceID: 0}
+  - Object7: {instanceID: 0}
+  - Object8: {instanceID: 0}
+  - Object9: {instanceID: 0}
+  - Object10: {instanceID: 0}
+  - LemurObject1: {fileID: 100000, guid: 53edbd2147f6b412b8571c0288c91461, type: 2}
+  - LemurObject2: {instanceID: 0}
+  - LemurObject3: {instanceID: 0}
+  - LemurObject4: {instanceID: 0}
+  - myCamera: {instanceID: 0}
+  - mainLight: {instanceID: 0}
+  - myColorPicker: {instanceID: 0}
+  - colorPickerTex: {fileID: 2800000, guid: 541ecaa682852451d93c3ee60dc9e378, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

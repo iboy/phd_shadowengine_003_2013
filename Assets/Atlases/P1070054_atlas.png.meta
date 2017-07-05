@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: 7710580f76c4b4e8cba248d8a3a80177
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: P1070054_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 989
+        width: 1821
+        height: 2895
+      alignment: 9
+      pivot: {x: .45961979, y: .972657323}
+    - name: P1070054_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 31
+        width: 644
+        height: 843
+      alignment: 9
+      pivot: {x: .57859391, y: .920286477}
+    - name: P1070054_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 35
+        width: 643
+        height: 915
+      alignment: 9
+      pivot: {x: .177805603, y: .914113224}
+  spritePackingTag: 
+  userData: 

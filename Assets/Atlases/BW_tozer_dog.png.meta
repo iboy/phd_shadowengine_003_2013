@@ -1,0 +1,86 @@
+fileFormatVersion: 2
+guid: 54b0386c998784b10a861bdbdf639098
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BW_tozer_dog_head
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 67
+        height: 77
+      alignment: 9
+      pivot: {x: .883727372, y: .412246197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_tozer_dog_tail
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 78
+        width: 38
+        height: 31
+      alignment: 9
+      pivot: {x: .14436622, y: .106592238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_tozer_dog_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: .210913986, y: .620435178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_tozer_dog_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 28
+        height: 21
+      alignment: 9
+      pivot: {x: .870644867, y: .839296639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

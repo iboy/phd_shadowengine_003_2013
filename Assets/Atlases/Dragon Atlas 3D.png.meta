@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 50e0b2cbf67d742c0870d33060e20136
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 180
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dragon_3D_010_Head
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 682
+        width: 252
+        height: 291
+      alignment: 9
+      pivot: {x: .337345898, y: .0962153152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_009
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 525
+        width: 116
+        height: 138
+      alignment: 9
+      pivot: {x: .276821256, y: .124286599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_008
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 315
+        width: 132
+        height: 188
+      alignment: 9
+      pivot: {x: .328594774, y: .075240925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_007
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 145
+        width: 143
+        height: 152
+      alignment: 9
+      pivot: {x: .138904497, y: .209999785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_006
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 83
+        width: 123
+        height: 114
+      alignment: 9
+      pivot: {x: .315692931, y: .875620246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_005
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 212
+        width: 105
+        height: 124
+      alignment: 9
+      pivot: {x: .420169502, y: .921839058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_004
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 343
+        width: 101
+        height: 115
+      alignment: 9
+      pivot: {x: .434023708, y: .907757282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_003
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 495
+        width: 87
+        height: 114
+      alignment: 9
+      pivot: {x: .316655993, y: .906745255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_002
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 621
+        width: 73
+        height: 78
+      alignment: 9
+      pivot: {x: .199202657, y: .76001054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_001
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 665
+        width: 73
+        height: 62
+      alignment: 9
+      pivot: {x: .132221594, y: .394810826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dragon_3D_000_Tail
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 632
+        width: 70
+        height: 59
+      alignment: 9
+      pivot: {x: .509830713, y: .360038102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

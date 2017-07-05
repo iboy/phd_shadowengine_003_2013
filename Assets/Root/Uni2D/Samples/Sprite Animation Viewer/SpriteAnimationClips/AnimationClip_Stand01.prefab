@@ -1,0 +1,581 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: AnimationClip_Stand01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4d828138e42f40c49683b59352d2934, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  frameRate: 12
+  wrapMode: 0
+  frames:
+  - name: 
+    textureContainer:
+      m_oTextureGUID: bb0b0eb86f5c047c3a44922aae418194
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: ad8ff231624f64a57b1542dade0f35e9
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: c303de17a1f83475289f01d6422c251d
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 35987736d5b2048889943f9b36c8a7b8
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: cbf313db35bc34b508a208f0454581b8
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: ec5b8c37067d047b9b4501c97b7ec868
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 6509ff119ba1444c2bc984b87ae1a338
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 214767b20cc154392b4f6f880f05fc16
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: e786e40b7cc7142eda93896175da3bac
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 9e53a7b96ab484f558354de1e65143e0
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: c65a674e6a8254f04b72aba25154c21b
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 51453985acbbf4296bce4b058873c569
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 055fdb64db95d42db878e99a53ebadf4
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 668581fe7833540c5a11d2576f28f488
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: de9f616989f1144b0acd6521d4cc1d2f
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 76fbc2df2dc96432ab28da0ac8807421
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 8768757d55abf4f6f884b3a5f80d1556
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: d98898cd136634f359096cfffae7749d
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 26b1ee91c2a1240d3ad9aaf8972fa211
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  - name: 
+    textureContainer:
+      m_oTextureGUID: e705aee52b927476494b066761a2092e
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 235
+    m_iTextureHeight: 256
+  globalAtlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+  m_fSavedFrameRate: 12
+  m_eSavedWrapMode: 0
+  m_oSavedFrames:
+  - name: 
+    textureContainer:
+      m_oTextureGUID: bb0b0eb86f5c047c3a44922aae418194
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: ad8ff231624f64a57b1542dade0f35e9
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: c303de17a1f83475289f01d6422c251d
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 35987736d5b2048889943f9b36c8a7b8
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: cbf313db35bc34b508a208f0454581b8
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: ec5b8c37067d047b9b4501c97b7ec868
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 6509ff119ba1444c2bc984b87ae1a338
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 214767b20cc154392b4f6f880f05fc16
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: e786e40b7cc7142eda93896175da3bac
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 9e53a7b96ab484f558354de1e65143e0
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: c65a674e6a8254f04b72aba25154c21b
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 51453985acbbf4296bce4b058873c569
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 055fdb64db95d42db878e99a53ebadf4
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 668581fe7833540c5a11d2576f28f488
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: de9f616989f1144b0acd6521d4cc1d2f
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 76fbc2df2dc96432ab28da0ac8807421
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 8768757d55abf4f6f884b3a5f80d1556
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: d98898cd136634f359096cfffae7749d
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: 26b1ee91c2a1240d3ad9aaf8972fa211
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  - name: 
+    textureContainer:
+      m_oTextureGUID: e705aee52b927476494b066761a2092e
+      m_rTexture: {fileID: 0}
+    atlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef, type: 2}
+    triggerEvent: 0
+    frameInfos:
+      stringInfo: 
+      intInfo: 0
+      floatInfo: 0
+      objectInfo: {fileID: 0}
+    m_iTextureWidth: 1024
+    m_iTextureHeight: 1024
+  m_rSavedGlobalAtlas: {fileID: 11400000, guid: 18284b4832a8946828bfc30a5cce7cef,
+    type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 348b5db6deba7409d9972a2c8d6c3a44
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 600
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: horse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4031
+        height: 3098
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: horse_head
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2220
+        width: 671
+        height: 848
+      alignment: 9
+      pivot: {x: .849772036, y: .50971061}
+    - name: horse_neck
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1763
+        width: 695
+        height: 1075
+      alignment: 9
+      pivot: {x: .61721909, y: .208902851}
+    - name: horse_front_leg_left_upper
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1351
+        width: 267
+        height: 696
+      alignment: 9
+      pivot: {x: .51542145, y: .866787791}
+    - name: horse_front_leg_left_lower
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 343
+        width: 235
+        height: 724
+      alignment: 9
+      pivot: {x: .710255086, y: .881038249}
+    - name: horse_body
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2212
+        width: 1684
+        height: 716
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: horse_front_leg_right_upper
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 960
+        width: 210
+        height: 622
+      alignment: 9
+      pivot: {x: .539214194, y: .844227314}
+    - name: horse_front_leg_right_lower
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 174
+        width: 202
+        height: 634
+      alignment: 9
+      pivot: {x: .622301757, y: .88966769}
+    - name: horse_rear_leg_left_upper
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 820
+        width: 399
+        height: 626
+      alignment: 9
+      pivot: {x: .376165926, y: .795985401}
+    - name: horse_rear_leg_left_lower x
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 128
+        width: 684
+        height: 388
+      alignment: 9
+      pivot: {x: .0966784358, y: .807750106}
+    - name: horse_10horse_rear_leg_right_upper
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 783
+        width: 515
+        height: 725
+      alignment: 9
+      pivot: {x: .444033951, y: .380734265}
+    - name: horse_rear_leg_right_lower
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 46
+        width: 366
+        height: 774
+      alignment: 9
+      pivot: {x: .70249933, y: .898981512}
+    - name: horse_tail
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1113
+        width: 605
+        height: 980
+      alignment: 9
+      pivot: {x: .0780418739, y: .861330509}
+  spritePackingTag: 
+  userData: 

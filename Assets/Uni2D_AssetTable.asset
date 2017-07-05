@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f2539bbb4f03424ca1e61b0436cf5d1, type: 3}
+  m_Name: Uni2D_AssetTable
+  m_EditorClassIdentifier: 
+  m_oAtlasPathGUIDEntries:
+  - key: Assets/Prefabs/TextureAtlas 1.prefab
+    genericValue: e6ab35a05ecf04c7fa0e766d0d15b97f
+  - key: Assets/Prefabs/TextureAtlas 2.prefab
+    genericValue: f404ec86116a94939b791c3f2a739be3
+  - key: Assets/Prefabs/IIM_Bird_Uni2D_Atlas.prefab
+    genericValue: a10c02645868647d19d87009ab01629e
+  - key: Assets/Prefabs/TextureAtlas_New.prefab
+    genericValue: 47ee5b295b55b4dd895327a15cc53488
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/Atlases/TextureAtlas_AllAnims.prefab
+    genericValue: 18284b4832a8946828bfc30a5cce7cef
+  m_oClipPathGUIDEntries:
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Stand02.prefab
+    genericValue: 9318702077fdb4dde8e336a2d883985e
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Stand01.prefab
+    genericValue: bedbe84c41310469392cb3716b677974
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Walk02.prefab
+    genericValue: f98a561d7f5f641629093f089afd52a8
+  - key: Assets/Root/Uni2D/Samples/Sprite Animation Viewer/SpriteAnimationClips/AnimationClip_Walk01.prefab
+    genericValue: f0f60aeefc4eb4665b8e7c81e6313235
+  - key: Assets/BirdHeadBlink.prefab
+    genericValue: 363ebb61d9f424b72b26ab384b61be3e
+  m_oTextureImportGUIDEntries:
+  - key: 9b3bd366357c749ffaa5697710ea73dc
+    genericValue: 60071d2e-0a22-45ee-ae51-e37fd7e9d209
+  - key: a63536a0cb6c74bf5abfbe99ff4c00ac
+    genericValue: 5274611a-949f-4503-bbb5-9d759965695b
+  - key: 69b8dc4fa7adb40fba17fcf120d048b9
+    genericValue: 7b7f008a-024f-404c-a1f0-16786fec7a70
+  - key: a61c7d9db8922425f9b8b83fd50acb25
+    genericValue: 5cc031b5-fd40-4d7a-b61d-3fdf5b5ab764
+  - key: 1f102120aff0b40d6bf62ae85ab5cb1e
+    genericValue: 15b224ce-554d-4b40-a200-a15d9ebce129
+  - key: a546fa965a6084c1f9b5420c0cb36b22
+    genericValue: bd4a6045-3aea-46de-a686-bcca7308b8ff
+  - key: 11cba753e6ca844ee84ba3bb7c45b438
+    genericValue: 196da762-9d9f-420f-a5b0-c1ad5afe4047
+  - key: 3947fe826f0fc40e59b853c335d13692
+    genericValue: 79364dae-5ff1-401e-b97f-46584614b621
+  - key: d3ef68aae0a154459818bce6897eb5aa
+    genericValue: 08cf2f27-99c1-4c4a-9b2f-a24c328c1f10
+  - key: d8f03b13b85ae4f2da06ea1a64692e1e
+    genericValue: d16f7f3f-bbbb-4e20-84f4-370ec85ef5f4
+  - key: b8a55c58158ee49e98cd3e5f5c142147
+    genericValue: 4bd97113-5912-4cc4-8348-f7ebe6316676
+  - key: 9b4b961b2acb5455084c517927babea3
+    genericValue: 2da8cdfd-3251-4708-b6d5-51f77e51e4c4
+  - key: 0075fe86ba5364ea59b6a75210aebf29
+    genericValue: cd620908-f9d5-4c71-bd86-788c519217b6
+  - key: a670fa2c37fd34d848ff89da058273fc
+    genericValue: 5cccd390-986a-429e-86d9-d7419d978d67
+  - key: acad5aaa5166041d090ac86f832107b6
+    genericValue: b6114f2e-0faa-4622-bee0-3e09c0373081
+  - key: 2b2a6252dce614221bc964d43844a4a8
+    genericValue: ba1ca2cc-8410-4b7e-981f-f0fc568876ba
+  - key: c7bc5bc9e40eb459e99d914d805a9b55
+    genericValue: 822578e8-ce8e-4609-a079-b0b5f685cc15
+  - key: 65bd30d25af9e42d79eb4b971b0e3005
+    genericValue: ccfb05b4-4e83-402c-840a-b48c3d2ee16c
+  - key: d3da8d71a50c94881949f3c628d2d144
+    genericValue: a25a0155-bdc3-40ea-bcad-f0b6552087c9
+  - key: 7f4cd7cc3581247b9930291a70f9ff25
+    genericValue: c6fac6eb-86fd-43ff-b801-86893fc7ea3a
+  - key: b8de639519354498d853accdfee3ced0
+    genericValue: ea79b468-ad64-41e6-91ed-b69eedf44a33
+  - key: 16f87e62b86324e7498ac8396eb54866
+    genericValue: e247bf59-5293-48b4-beb9-9873a2d7f87c
+  - key: b207ec36e979841908b3e3e537f97e20
+    genericValue: eeda83b8-779f-48d4-9c3a-1b2145978c74
+  - key: b881cc784ec7d463fb58d21b22167fdd
+    genericValue: b570abf1-cfdd-4638-a4ec-45d0bc02d626
+  m_oTextureGUIDAtlasEntries:
+  - key: 11cba753e6ca844ee84ba3bb7c45b438
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: 3947fe826f0fc40e59b853c335d13692
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: d3ef68aae0a154459818bce6897eb5aa
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: 0075fe86ba5364ea59b6a75210aebf29
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: b8a55c58158ee49e98cd3e5f5c142147
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: 9b4b961b2acb5455084c517927babea3
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: d8f03b13b85ae4f2da06ea1a64692e1e
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: a670fa2c37fd34d848ff89da058273fc
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: acad5aaa5166041d090ac86f832107b6
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  - key: d3da8d71a50c94881949f3c628d2d144
+    genericValue:
+    - a10c02645868647d19d87009ab01629e
+  m_oTextureGUIDClipEntries: []
+  m_oTextureGUIDSpritePrefabEntries:
+  - key: 7f4712db2db224d67b5db0c81bc91475
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: ba9c7cf2e19c042b289df9f042c49454
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: 0e3716ddef34f4e4d9a577f3ec8a65af
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: e6f7d2fc68e07473eb5da173f31b20b9
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: 8f8a46b2b6c47450c9d61b0e876ed3a8
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: 02ec362dd950d4de3ac39ab818d25f29
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: c7bc5bc9e40eb459e99d914d805a9b55
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: eb0cf478cb7f141ab88271297a6e573e
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: 6855c98b2fc9c405393d2d187d224a24
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+  - key: 0075fe86ba5364ea59b6a75210aebf29
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: d3ef68aae0a154459818bce6897eb5aa
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: 9b4b961b2acb5455084c517927babea3
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: b8a55c58158ee49e98cd3e5f5c142147
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: 3947fe826f0fc40e59b853c335d13692
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: acad5aaa5166041d090ac86f832107b6
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: 11cba753e6ca844ee84ba3bb7c45b438
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: a670fa2c37fd34d848ff89da058273fc
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  - key: b207ec36e979841908b3e3e537f97e20
+    genericValue:
+    - 3992dcd155bc24447b69d63205729627
+  - key: d8f03b13b85ae4f2da06ea1a64692e1e
+    genericValue:
+    - 8f42bffc7f13b4aaa97a7790db53cc75
+  m_oAtlasGUIDSpritePrefabEntries:
+  - key: a10c02645868647d19d87009ab01629e
+    genericValue:
+    - 66962cad4a15545aaa78359a607700a2

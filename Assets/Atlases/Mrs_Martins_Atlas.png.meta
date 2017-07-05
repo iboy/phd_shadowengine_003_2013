@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: f6679d9fca05f4cc78e4ee47433d302f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mrs_Martins_Head
+    21300002: Mrs_Martins_Upper_Arm
+    21300004: Mrs_Martins_Lower_Arm
+    21300006: Mrs_Martins_Right_Leg
+    21300008: Mrs_Martins_Left_Leg
+    21300010: Mrs_Martins_Body
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mrs_Martins_Head
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 126
+        width: 142
+        height: 142
+      alignment: 9
+      pivot: {x: .650224268, y: .067264393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mrs_Martins_Upper_Arm
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 221
+        width: 56
+        height: 50
+      alignment: 9
+      pivot: {x: .703696668, y: .818261087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mrs_Martins_Lower_Arm
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 73
+        height: 120
+      alignment: 9
+      pivot: {x: .81297332, y: .785588086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mrs_Martins_Right_Leg
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: .671456754, y: .925436437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mrs_Martins_Left_Leg
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: .66279006, y: .934714317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mrs_Martins_Body
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 23
+        width: 185
+        height: 138
+      alignment: 9
+      pivot: {x: .345165104, y: .882309496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

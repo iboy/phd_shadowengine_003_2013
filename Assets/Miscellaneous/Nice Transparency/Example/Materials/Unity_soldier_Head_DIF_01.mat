@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Unity_soldier_Head_DIF_01
+  m_Shader: {fileID: 4800000, guid: 2ede2a7c51585544e829a080fd386899, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 4a812b193aed6a04fb6e579fdf8bdf47, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ScatterMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 9d5458f785a4e2e4784bae79f3e74da6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ExitColorMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 0bd94e6795192a642a51ff1a0a922845, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TMAP
+        second:
+          m_Texture: {fileID: 2800000, guid: ab91af69805bf17419e8214780b49790, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _AO
+        second:
+          m_Texture: {fileID: 2800000, guid: 80328f314ae74074c9ae23cb866d6876, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MainTex2
+        second:
+          m_Texture: {fileID: 2800000, guid: ef62db3f4c5034347ac5fa1bf645b653, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MainTex3
+        second:
+          m_Texture: {fileID: 2800000, guid: ef62db3f4c5034347ac5fa1bf645b653, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap2
+        second:
+          m_Texture: {fileID: 2800000, guid: d7ff8d2442621f54ab769142df7108ac, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap3
+        second:
+          m_Texture: {fileID: 2800000, guid: d7ff8d2442621f54ab769142df7108ac, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ScatterMap2
+        second:
+          m_Texture: {fileID: 2800000, guid: 9d5458f785a4e2e4784bae79f3e74da6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _BackFalloff
+        second: 1
+      data:
+        first:
+          name: _FrontFalloff
+        second: 0
+      data:
+        first:
+          name: _Shininess
+        second: .521500051
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+      data:
+        first:
+          name: _BlendAdjust1
+        second: .0384615436
+      data:
+        first:
+          name: _ExitColorRadius
+        second: .230769232
+      data:
+        first:
+          name: _Layer1Thickness
+        second: .115384623
+      data:
+        first:
+          name: _GVar
+        second: 10
+      data:
+        first:
+          name: _DDXP
+        second: 2.5
+      data:
+        first:
+          name: _DDXM
+        second: 9
+      data:
+        first:
+          name: _TMUL
+        second: 1
+      data:
+        first:
+          name: _Smoothness
+        second: .538461566
+      data:
+        first:
+          name: _Layer2Thickness
+        second: .365384638
+      data:
+        first:
+          name: _Shininess2
+        second: .472000003
+      data:
+        first:
+          name: _Shininess3
+        second: .490624994
+      data:
+        first:
+          name: _BlendAdjust2
+        second: .346153855
+      data:
+        first:
+          name: _ExitColorMultiplier
+        second: .0769230798
+      data:
+        first:
+          name: _ARI
+        second: 1.00029302
+      data:
+        first:
+          name: _SRI
+        second: 1.36000001
+      data:
+        first:
+          name: _SRI2
+        second: 1.37
+      data:
+        first:
+          name: _ShadeRange
+        second: .0199999996
+      data:
+        first:
+          name: _ShadingStrength
+        second: 1
+      data:
+        first:
+          name: _RMS
+        second: .707106769
+      data:
+        first:
+          name: _SpecSmoothing
+        second: 1.74423075
+      data:
+        first:
+          name: _AOST
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: .490196079}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .567164183, g: .567164183, b: .567164183, a: 1}
+      data:
+        first:
+          name: _Emission
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _SSSC
+        second: {r: 1, g: .888059676, b: .888526082, a: 1}
+      data:
+        first:
+          name: _LightBending
+        second: {r: .600000024, g: .300000012, b: .100000001, a: 1}
+      data:
+        first:
+          name: _Color2
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Color3
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor2
+        second: {r: .791044772, g: .791044772, b: .791044772, a: 1}
+      data:
+        first:
+          name: _SpecColor3
+        second: {r: .716417909, g: .716417909, b: .716417909, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: c4e642f38980f437c8e921f33a98823b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Billy_Waters_Violin_Head
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 175
+        width: 115
+        height: 130
+      alignment: 9
+      pivot: {x: .116554528, y: .656800747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Billy_Waters_Violin_Body
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 6
+        width: 96
+        height: 131
+      alignment: 9
+      pivot: {x: .36999926, y: .912826538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Billy_Waters_Violin_Lower_Arm_and_Bow
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 99
+        width: 141
+        height: 70
+      alignment: 9
+      pivot: {x: .048593428, y: .635454476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Billy_Waters_Violin_Upper_Arm
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: .195608363, y: .191829622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Billy_Waters_Violin_Lower_Leg_Left
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 55
+        height: 60
+      alignment: 9
+      pivot: {x: .36858812, y: .726750076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Billy_Waters_Violin_Upper_Leg
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 16
+        width: 33
+        height: 63
+      alignment: 9
+      pivot: {x: .691772938, y: .129760683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Billy_Waters_Violin_Right_Leg
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 9
+        width: 80
+        height: 105
+      alignment: 9
+      pivot: {x: .18797341, y: .845203519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Billy_Waters_Violin
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 193
+        width: 75
+        height: 106
+      alignment: 9
+      pivot: {x: .687068701, y: .122974902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

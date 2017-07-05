@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: IIM_Bird_Uni2D_Atlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 625f62165ad1f4f86963a0faaf990ecb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textures:
+  - m_oTextureGUID: d8f03b13b85ae4f2da06ea1a64692e1e
+    m_rTexture: {fileID: 0}
+  - m_oTextureGUID: d3da8d71a50c94881949f3c628d2d144
+    m_rTexture: {fileID: 0}
+  - m_oTextureGUID: 0075fe86ba5364ea59b6a75210aebf29
+    m_rTexture: {fileID: 0}
+  padding: 1
+  maximumAtlasSize: 2048
+  materialOverride: {fileID: 0}
+  m_oAtlasEntries:
+  - m_rAtlasTexture: {fileID: 2800000, guid: 2b2a6252dce614221bc964d43844a4a8, type: 3}
+    m_rAtlasMaterial: {fileID: 2100000, guid: 72512d195457b4a56944a85caf1ad706, type: 2}
+    m_rAtlasedTextureGUIDs:
+    - d8f03b13b85ae4f2da06ea1a64692e1e
+    - d3da8d71a50c94881949f3c628d2d144
+    - 0075fe86ba5364ea59b6a75210aebf29
+    m_rUVs:
+    - rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: .834472656
+        height: .498535156
+      isFlipped: 0
+    - rect:
+        serializedVersion: 2
+        x: 0
+        y: .499023438
+        width: .285644531
+        height: .443847656
+      isFlipped: 1
+    - rect:
+        serializedVersion: 2
+        x: .286132812
+        y: .499023438
+        width: .285644531
+        height: .443847656
+      isFlipped: 1
+  generationId: f942c739-99ca-4552-a3d3-61e8ecb677b6
+  m_rTextureContainers:
+  - m_oTextureGUID: d8f03b13b85ae4f2da06ea1a64692e1e
+    m_rTexture: {fileID: 0}
+  - m_oTextureGUID: d3da8d71a50c94881949f3c628d2d144
+    m_rTexture: {fileID: 0}
+  - m_oTextureGUID: 0075fe86ba5364ea59b6a75210aebf29
+    m_rTexture: {fileID: 0}
+  m_iPadding: 1
+  m_eMaximumAtlasSize: 2048
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

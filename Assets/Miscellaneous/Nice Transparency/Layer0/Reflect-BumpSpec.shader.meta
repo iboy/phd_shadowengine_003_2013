@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 56df05dfe9b78bc48b57823eb11b0f09
+labels:
+- transparency
+- frontfaces
+- backfaces
+- alpha
+- edge
+- falloff
+- shader
+ShaderImporter:
+  defaultTextures: []
+  userData: 

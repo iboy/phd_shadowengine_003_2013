@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: f8806c01c29d149cf92d13360b446737
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: billy waters_body
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 91
+        width: 133
+        height: 185
+      alignment: 9
+      pivot: {x: .683822811, y: .833434045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: billy waters_upper_lef
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 29
+        height: 60
+      alignment: 9
+      pivot: {x: .396240622, y: .857929826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: billy waters_lower_leg
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 44
+        height: 55
+      alignment: 9
+      pivot: {x: .303386867, y: .787226617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: billy waters_wooden_leg
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 32
+        width: 53
+        height: 65
+      alignment: 9
+      pivot: {x: .150246963, y: .877928257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: billy waters_lower_arm
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 125
+        width: 69
+        height: 55
+      alignment: 9
+      pivot: {x: .140223846, y: .246967658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: billy waters_upper_arm
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 194
+        width: 45
+        height: 67
+      alignment: 9
+      pivot: {x: .324472725, y: .831218898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

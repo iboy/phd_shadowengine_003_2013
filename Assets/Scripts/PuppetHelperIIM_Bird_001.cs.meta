@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: a17e38d21cb0b41fd85e35d92a9594f6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Root: {fileID: 100144, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Head: {fileID: 100136, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Neck1: {fileID: 100202, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Neck2: {fileID: 100052, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Neck3: {fileID: 100100, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Body: {fileID: 100082, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001LLegUpper: {fileID: 100244, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  - IIMBird001LLegLower: {fileID: 100060, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  - IIMBird001RLegUpper: {fileID: 100212, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  - IIMBird001RLegLower: {fileID: 100128, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  - IIMBird001BodyNeckJointAnchor: {instanceID: 0}
+  - IIMBird001BodyLLegJointAnchor: {instanceID: 0}
+  - IIMBird001BodyRLegJointAnchor: {instanceID: 0}
+  - IIMBird001LLegLowerJointAnchor: {instanceID: 0}
+  - IIMBird001RLegLowerJointAnchor: {instanceID: 0}
+  - IIMBird001Neck1JointAnchor: {instanceID: 0}
+  - IIMBird001Neck2JointAnchor: {instanceID: 0}
+  - IIMBird001HeadJointAnchor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: e5527784289c2435ba2188c0312bfe7c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BW_Mary_Jane_Head
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 235
+        width: 102
+        height: 101
+      alignment: 9
+      pivot: {x: .570884407, y: .0973282605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_Mary_Jane_UpperBody
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 160
+        width: 57
+        height: 69
+      alignment: 9
+      pivot: {x: .729189694, y: .631696403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_Mary_Jane_upperArm
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 157
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: .334451973, y: .0767706186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_Mary_Jane_LowerArm
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 99
+        height: 26
+      alignment: 9
+      pivot: {x: .225097194, y: .65552783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_Mary_Jane_Pie
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 178
+        width: 54
+        height: 40
+      alignment: 9
+      pivot: {x: .507306695, y: .0914875343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_Mary_Jane_BodyBottom
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 38
+        width: 93
+        height: 112
+      alignment: 9
+      pivot: {x: .426287085, y: .936032176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_Mary_Jane_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 7
+        width: 35
+        height: 26
+      alignment: 9
+      pivot: {x: .740578353, y: .902365923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BW_Mary_Jane_RightLeg
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: .719964385, y: .90552038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

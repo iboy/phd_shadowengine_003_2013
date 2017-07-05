@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 473088b7304214a2aa37451846411285
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - IIMBird001Head: {fileID: 100136, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Neck1: {fileID: 100202, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Neck2: {fileID: 100052, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Neck3: {fileID: 100100, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001Body: {fileID: 100082, guid: ae74684166e8141dfb0a19e8ac41fad9, type: 2}
+  - IIMBird001LLegUpper: {fileID: 100244, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  - IIMBird001LLegLower: {fileID: 100060, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  - IIMBird001RLegUpper: {fileID: 100212, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  - IIMBird001RLegLower: {fileID: 100128, guid: ae74684166e8141dfb0a19e8ac41fad9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
