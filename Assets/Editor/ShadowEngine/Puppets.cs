@@ -70,42 +70,42 @@ class Puppets : EditorWindow {
         // The actual window code goes here
 
 
-		BW_3D_Bottle		= GameObject.Find("BW_3D_Bottle/HeadController");
-		BW_3D_Bottle_Arm	= GameObject.Find("BW_3D_Bottle/HeadController/ArmController");
-		BW_3D_Bottle_Leg	= GameObject.Find("BW_3D_Bottle/HeadController/LegController");
+		BW_3D_Bottle		= GameObject.Find("BW_3D_Bottle/Billy - Bottle - HeadController");
+		BW_3D_Bottle_Arm	= GameObject.Find("BW_3D_Bottle/Billy - Bottle - HeadController/ArmController");
+		BW_3D_Bottle_Leg	= GameObject.Find("BW_3D_Bottle/Billy - Bottle - HeadController/LegController");
 
-		BW_with_Violin 		= GameObject.Find("BW_with_Violin/HeadController");
-		BW_with_Violin_Arm 	= GameObject.Find("BW_with_Violin/HeadController/ArmController");
-		BW_with_Violin_Leg 	= GameObject.Find("BW_with_Violin/HeadController/LegController");
+		BW_with_Violin 		= GameObject.Find("BW_with_Violin/Billy - Violin - HeadController");
+		BW_with_Violin_Arm 	= GameObject.Find("BW_with_Violin/Billy - Violin - HeadController/ArmController");
+		BW_with_Violin_Leg 	= GameObject.Find("BW_with_Violin/Billy - Violin - HeadController/LegController");
 
-		BW_Tozer_Dog 		= GameObject.Find("BW_Tozer_Dog/HeadController");
-		BW_Tozer_Dog_Leg 	= GameObject.Find("BW_Tozer_Dog/HeadController/LegController");
-		BW_Tozer_Dog_Body 	= GameObject.Find("BW_Tozer_Dog/HeadController/BodyController");
+		BW_Tozer_Dog 		= GameObject.Find("BW_Tozer_Dog/Dog - HeadController");
+		BW_Tozer_Dog_Leg 	= GameObject.Find("BW_Tozer_Dog/Dog - HeadController/LegController");
+		BW_Tozer_Dog_Body 	= GameObject.Find("BW_Tozer_Dog/Dog - HeadController/BodyController");
 
 
-		BW_Mrs_Brown_R 			= GameObject.Find("BW_Mrs_Brown_R/HeadController");
-		BW_Mrs_Brown_R_Bushell	= GameObject.Find("BW_Mrs_Brown_R/HeadController/BushellController");
+		BW_Mrs_Brown_R 			= GameObject.Find("BW_Mrs_Brown_R/Mrs Brown - HeadController");
+		BW_Mrs_Brown_R_Bushell	= GameObject.Find("BW_Mrs_Brown_R/Mrs Brown - HeadController/BushellController");
 
-		BW_Mrs_Brown_L			= GameObject.Find("BW_Mrs_Brown_L/HeadController");
-		BW_Mrs_Brown_L_Bushell	= GameObject.Find("BW_Mrs_Brown_L/HeadController/BushellController");
+		BW_Mrs_Brown_L			= GameObject.Find("BW_Mrs_Brown_L/Mrs Brown - HeadController");
+		BW_Mrs_Brown_L_Bushell	= GameObject.Find("BW_Mrs_Brown_L/Mrs Brown - HeadController/BushellController");
 
-		BW_Mary_Jane		= GameObject.Find("BW_Mary_Jane/HeadController");
-		BW_Mary_Jane_Pie	= GameObject.Find("BW_Mary_Jane/HeadController/PieController");
-		BW_Mary_Jane_Body	= GameObject.Find("BW_Mary_Jane/HeadController/BodyController");
+		BW_Mary_Jane		= GameObject.Find("BW_Mary_Jane/Mary-Jane - HeadController");
+		BW_Mary_Jane_Pie	= GameObject.Find("BW_Mary_Jane/Mary-Jane - HeadController/PieController");
+		BW_Mary_Jane_Body	= GameObject.Find("BW_Mary_Jane/Mary-Jane - HeadController/BodyController");
 
-		BW_Mrs_Martin		= GameObject.Find("BW_Mrs_Martin/HeadController");
-		BW_Mrs_Martin_Arm	= GameObject.Find("BW_Mrs_Martin/HeadController/ArmController");
-		BW_Mrs_Martin_Body	= GameObject.Find("BW_Mrs_Martin/HeadController/BodyController");
+		BW_Mrs_Martin		= GameObject.Find("BW_Mrs_Martin/Mrs Martin - HeadController");
+		BW_Mrs_Martin_Arm	= GameObject.Find("BW_Mrs_Martin/Mrs Martin - HeadController/ArmController");
+		BW_Mrs_Martin_Body	= GameObject.Find("BW_Mrs_Martin/Mrs Martin - HeadController/BodyController");
 
-		BW_Jemima			= GameObject.Find("BW_Jemima/HeadController");
-		BW_Jemima_Umbrella	= GameObject.Find("BW_Jemima/HeadController/UmbrellaController");
-		BW_Jemima_Arm		= GameObject.Find("BW_Jemima/HeadController/ArmController");
+		BW_Jemima			= GameObject.Find("BW_Jemima/Jemima - HeadController");
+		BW_Jemima_Umbrella	= GameObject.Find("BW_Jemima/Jemima - HeadController/UmbrellaController");
+		BW_Jemima_Arm		= GameObject.Find("BW_Jemima/Jemima - HeadController/ArmController");
 
-		BW_Policeman		= GameObject.Find("BW_Policeman/HeadController");
-		BW_Policeman_Arm	= GameObject.Find("BW_Policeman/HeadController/ArmController");
-		BW_Policeman_LegR	= GameObject.Find("BW_Policeman/HeadController/LegRController");
-		BW_Policeman_LegL	= GameObject.Find("BW_Policeman/HeadController/LegLController");
-		BW_Policeman_Hat	= GameObject.Find("BW_Policeman/HeadController/HatController");
+		BW_Policeman		= GameObject.Find("BW_Policeman/Policeman - HeadController");
+		BW_Policeman_Arm	= GameObject.Find("BW_Policeman/Policeman - HeadController/ArmController");
+		BW_Policeman_LegR	= GameObject.Find("BW_Policeman/Policeman - HeadController/LegRController");
+		BW_Policeman_LegL	= GameObject.Find("BW_Policeman/Policeman - HeadController/LegLController");
+		BW_Policeman_Hat	= GameObject.Find("BW_Policeman/Policeman - HeadController/HatController");
 
 		GUILayout.Label ("Puppet Selection", EditorStyles.boldLabel);
 		//GUI.color = Color.white;

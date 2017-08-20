@@ -6,7 +6,7 @@ var distance = 0.2;
 var attachToCenterOfMass = false;
 
 private var springJoint : SpringJoint;
-
+private var myHitGO : GameObject;
 function Update ()
 {
 	// Make sure the user pressed the mouse down
@@ -26,7 +26,7 @@ function Update ()
 	
 	if (!springJoint)
 	{
-		var go = new GameObject("Rigidbody dragger");
+		var go = new GameObject("Rigidbody3D dragger");
 		var body : Rigidbody = go.AddComponent ("Rigidbody") as Rigidbody;
 		springJoint = go.AddComponent ("SpringJoint");
 		body.isKinematic = true;
@@ -60,7 +60,21 @@ function Update ()
 	springJoint.maxDistance = distance;
 	springJoint.connectedBody = hit.rigidbody;
 	Debug.Log("Selected:"+hit.collider.attachedRigidbody.gameObject.name.ToString());
+	if (hit.rigidbody.isKinematic) {
+	
+	Debug.Log("IsKinematic is true on "+hit.collider.attachedRigidbody.gameObject.name.ToString());
+	
+	//var ray = mainCamera.ScreenPointToRay (Input.mousePosition);
+	//springJoint.transform.position = ray.GetPoint(distance);
+	myHitGO = hit.collider.attachedRigidbody.gameObject;
+	StartCoroutine ("DragKinematicObject", hit.distance);
+	
+	} else {
+	
 	StartCoroutine ("DragObject", hit.distance);
+	
+	
+	}
 }
 
 function DragObject (distance : float)
@@ -82,6 +96,27 @@ function DragObject (distance : float)
 		springJoint.connectedBody.angularDrag = oldAngularDrag;
 		springJoint.connectedBody = null;
 	}
+}
+
+function DragKinematicObject (distance : float)
+{
+	//var oldDrag = springJoint.connectedBody.drag;
+	//var oldAngularDrag = springJoint.connectedBody.angularDrag;
+	//springJoint.connectedBody.drag = drag;
+	//springJoint.connectedBody.angularDrag = angularDrag;
+	var mainCamera = FindCamera();
+	while (Input.GetMouseButton (0))
+	{
+		var ray = mainCamera.ScreenPointToRay (Input.mousePosition);
+		myHitGO.transform.position = ray.GetPoint(distance);
+		yield;
+	}
+	//if (springJoint.connectedBody)
+	//{
+	//	springJoint.connectedBody.drag = oldDrag;
+	//	springJoint.connectedBody.angularDrag = oldAngularDrag;
+	//	springJoint.connectedBody = null;
+	//}
 }
 
 function FindCamera ()

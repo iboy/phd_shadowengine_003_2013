@@ -207,7 +207,7 @@ public class TouchTracker : MonoBehaviour {
 			//Debug.Log ("Handle Touch: "+touch.fingerId+" Ended");
 			TouchPointControllers[touch.fingerId].SetActive(false);
 			if (springJoint) {
-				springJoint.connectedBody = null;
+				TouchPointControllers[touch.fingerId].GetComponent<SpringJoint>().connectedBody = null;
 			}
 			break;
 		}

@@ -3,6 +3,7 @@ guid: b207ec36e979841908b3e3e537f97e20
 labels:
 - Uni2D_SourceTexture
 TextureImporter:
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
