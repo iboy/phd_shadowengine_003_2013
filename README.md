@@ -1,6 +1,6 @@
-# PhD Projects - ShadowEngine 003 - 2013 - Unity 4.7.2#
+# PhD Projects - ShadowEngine 003 - 2013 - Unity Pro 4.7.2 Project
 
 
-Features:  Billy Waters, UniOSC touch control, animated sets. 
+Features:  Early Billy Waters, Karagöz, UniOSC touch control, animated sets. 
 
 ![iPad prototype](screenshot.png)
