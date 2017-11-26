@@ -501,9 +501,9 @@ class Puppets : EditorWindow {
 			
 			if (str.transform.rotation.y == 0)
 			{
-				Camera.main.gameObject.GetComponent<MotionBlur>().enabled =  true;
+				//Camera.main.gameObject.GetComponent<MotionBlur>().enabled =  true;
 				//Camera.main.gameObject.GetComponent<Blur>().blurIterations =  1;
-				Camera.main.gameObject.GetComponent<MotionBlur>().blurAmount =  0.2f;
+				//Camera.main.gameObject.GetComponent<MotionBlur>().blurAmount =  0.2f;
 
 				str.transform.eulerAngles = new Vector3(0,180f,0);
 				//Camera.main.gameObject.GetComponent<MotionBlur>().enabled =  false;
@@ -511,9 +511,9 @@ class Puppets : EditorWindow {
 				//Camera.main.gameObject.GetComponent<MotionBlur>().blurAmount =  0.0f;
 			
 			} else { 
-				Camera.main.gameObject.GetComponent<MotionBlur>().enabled =  true;
+				//Camera.main.gameObject.GetComponent<MotionBlur>().enabled =  true;
 				//Camera.main.gameObject.GetComponent<Blur>().blurIterations =  1;
-				Camera.main.gameObject.GetComponent<MotionBlur>().blurAmount =  0.2f;
+				//Camera.main.gameObject.GetComponent<MotionBlur>().blurAmount =  0.2f;
 				str.transform.eulerAngles = new  Vector3(0,0,0);
 				//Camera.main.gameObject.GetComponent<MotionBlur>().enabled =  false;
 				//Camera.main.gameObject.GetComponent<Blur>().blurIterations =  1;
